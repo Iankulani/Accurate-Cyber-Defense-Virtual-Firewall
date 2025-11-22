@@ -18,14 +18,17 @@ The system also offers load balancing and traffic shaping to maintain optimal pe
 Whether deployed to protect enterprise data centers, cloud servers, or hybrid environments, Accurate-Cyber-Defense-Virtual-Firewall delivers a robust, intelligent, 
 and responsive security layer — keeping you informed, protected, and always one step ahead of cyber adversaries.
 
-**How to clone the repo**
+## How to clone the repo
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Virtual-Firewall.git
 
 cd Accurate-Cyber-Defense-Virtual-Firewall
+```
 
-**How to run**
-
+## How to run
+```bash
 python3 Accurate-Cyber-Defense-Virtual-Firewall.py
+```
 
 
